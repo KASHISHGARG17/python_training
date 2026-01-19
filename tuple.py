@@ -1,0 +1,11 @@
+t1 = 12,13,14,15
+print(t1)
+print(type(t1))
+t2 = (12,13,14,15)
+print(type(t2))
+t3 = (10)
+print(type(t3))
+t4 = (10,)
+print(type(t4))
+t5 = ()
+print(type(t5))
